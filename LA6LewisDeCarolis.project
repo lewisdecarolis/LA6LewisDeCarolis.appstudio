@@ -38,14 +38,7 @@
             "calculator",
             "calculator.json"
           ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "newControls",
-            "newControls.json"
-          ]
+
         }
       ],
       "configxml": null,
@@ -69,7 +62,7 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "newControls",
+
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
