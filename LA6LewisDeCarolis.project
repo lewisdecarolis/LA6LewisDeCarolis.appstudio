@@ -30,6 +30,25 @@
             "membership",
             "membership.json"
           ]
+<<<<<<< Updated upstream
+=======
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calculator",
+            "calculator.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "newControls",
+            "newControls.json"
+          ]
+>>>>>>> Stashed changes
         }
       ],
       "configxml": null,
@@ -53,7 +72,11 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
+<<<<<<< Updated upstream
       "firstform": "membership",
+=======
+      "firstform": "newControls",
+>>>>>>> Stashed changes
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
